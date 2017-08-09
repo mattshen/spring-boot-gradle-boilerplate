@@ -1,4 +1,4 @@
-Spring Boot ReactJS Boilerplate
+Spring Boot Boilerplate with Gradle
 ===================
 
 ### Prerequisites
